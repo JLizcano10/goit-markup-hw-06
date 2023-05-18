@@ -482,10 +482,6 @@ footer {
 }
 
 .form-check label {
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 7px; */
   position: relative;
   display: block;
   padding-left: 24px;
